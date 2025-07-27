@@ -3,7 +3,6 @@ PIC18F4550 playground
 
 ## Prerequisites:
 ### PICkit 3 Programmer
-Downloaded from: 
 https://download.freedownloadmanager.org/Windows-PC/PICkit/FREE-3.10.html
 
 ### MPLAB XC8 compiler:
