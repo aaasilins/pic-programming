@@ -11,4 +11,4 @@ Make sure to choose to install it to Windows path.
 
 ## How to launch?
 1. Compile C file into HEX with the help of XC8 compiler:
-2. 
+> xc8-cc -mcpu=18f4550 button_led.c
